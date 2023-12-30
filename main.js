@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         nodeseek论坛屏蔽词
 // @namespace    http://tampermonkey.net/
-// @version      2023-12-24
+// @version      2023-12-30
 // @description  为nodeseek论坛添加屏蔽词功能
 // @author       bigQY
 // @match        https://www.nodeseek.com/*
