@@ -56,7 +56,7 @@
     backdrop-filter: blur(10px);
     padding:20px;
     transition: all 0.5s;
-    opcaity: 0;
+    opacity: 0;
     overflow: hidden;
     `;
     document.body.appendChild(panel);
